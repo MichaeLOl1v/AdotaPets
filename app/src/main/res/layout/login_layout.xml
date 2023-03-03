@@ -18,14 +18,16 @@
             android:id="@+id/imgLogo"
             android:layout_width="150dp"
             android:layout_height="150dp"
-            android:layout_marginStart="50dp"
+            android:layout_marginStart="110dp"
             android:layout_marginTop="50dp"
             android:layout_marginEnd="50dp"
             android:layout_marginBottom="50dp"
             android:foregroundGravity="center"
             android:src="@drawable/chorro" />
 
+
         <EditText
+
             android:id="@+id/edtUsuario"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
